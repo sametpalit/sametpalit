@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
-<h3 align="center">A passionate frontend developer from india</h3>
+<h3 align="center">A passionate frontend developer from The Netherlands/Turkey</h3>
 
 - 🌱 I’m currently learning **JAVASCRIPT, SQL, Python, C++**
 
