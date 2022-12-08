@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samet</h1>
-<h3 align="center">A passionate frontend developer from The Netherlands/Turkey</h3>
+<h3 align="center">A passionate frontend developer from <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1f3-1f1f1.png" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer">  The Netherlands/Turkey<img src="https://images.emojiterra.com/twitter/512px/1f1f9-1f1f7.png" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer">  </h3>
 
 - 🌱 I’m currently learning **JAVASCRIPT, SQL, Python, C++**
 
